@@ -1,0 +1,1 @@
+In this project my team used Machine Learning techniques in an effort to predict cotinine (an indicator of secondhand smoke) levels in those that participated in the CDC's National Health and Nutrition Examination Survey (NHANES). 
