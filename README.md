@@ -2,7 +2,7 @@
 By: Eric Andrews, Swathi Komarivelli, & Mike VerHulst
 
 ### The goal:
-* Use machine learning models to predict cotinine levels (an indicator of second hand smoke exposure)
+* Use machine learning models to predict cotinine levels (an indicator of secondhand smoke exposure)
 
 ### The tools:
 * scikit-learn
